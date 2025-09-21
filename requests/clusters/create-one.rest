@@ -1,0 +1,7 @@
+POST  http://localhost:3001/api/clusters/
+Content-Type: application/json
+
+{
+    "name": "cluster 1",
+    "code": "001"
+}

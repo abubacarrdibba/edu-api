@@ -1,0 +1,9 @@
+POST  http://localhost:3001/api/regions/
+Content-Type: application/json
+
+ 
+
+{
+    "name": "Region 2",
+    "code": "002"
+}

@@ -1,0 +1,2 @@
+DELETE  http://localhost:3001/api/regions/68cf074109e48e283b4e822f
+ 

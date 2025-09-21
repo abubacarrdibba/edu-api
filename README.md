@@ -1,1 +1,1 @@
-# edu-api
+# api

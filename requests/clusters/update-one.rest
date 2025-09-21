@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/clusters/68cfe91ecac1eab336cba4d1
+Content-Type: application/json
+
+{
+    "name": "Cluster 6",
+    "code": "006"
+}
